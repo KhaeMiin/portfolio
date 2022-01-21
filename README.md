@@ -26,4 +26,3 @@
 >  
 >[프로젝트 상세 설명](https://github.com/KhaeMiin/Final_Team_Project) 참고
 
----
