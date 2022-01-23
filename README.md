@@ -39,7 +39,7 @@
 >개발 기간: 2021.11.10 ~ 2021.12.15  
 >  
 >기술 스택:  
->Java 8 / Spring Boot 2.5.6 / Maven / Mybatis 2.2.0  / MySQL 8.0.26
+>Java 8 / Spring Boot 2.5.6 / Maven / Mybatis 2.2.0  / MySQL 8.0.26<br>
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/KhaeMiin/Final_Team_Project) 참고
