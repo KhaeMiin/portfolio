@@ -2,7 +2,7 @@
 
 # 김해민의 포트폴리오
 
-<img src=""/>
+<img src="https://user-images.githubusercontent.com/91078445/150670298-f1570f95-88f1-454a-aa54-ff4d153ed9d2.jpg" width="300" height="300"/><br>
 ### :relieved:좋은 개발자로 성장하기 위해 노력하는 코딩바보
 좋은 개발자로 성장하기 위해 꾸준히 노력중인 주니어 개발자입니다.<br>
 현재 학원 수료 후 함께 학원을 수료한 동기 친구 2명과 스터디를 진행 중입니다.<br>
