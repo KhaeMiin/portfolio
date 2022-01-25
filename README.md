@@ -14,7 +14,7 @@
 
 ## Contact
 - 이메일: asdfghkl7@naver.com
-- 블로그: https://bit.ly/3KvA8aL
+- 블로그: https://intelliy-min.tistory.com/
 - 깃헙: https://github.com/KhaeMiin
 
 </br>
