@@ -24,6 +24,6 @@
 - 본인의 아이디어 상품을 소개하고 후원을 받을 수 있는 펀딩사이트 (팀 프로젝트)  
 - 개발 기간: 2021.11.10 ~ 2021.12.15    
 - 기술 스택:  
-Java 8 / Spring Boot 2.5.6 / Maven / Mybatis 2.2.0  / MySQL 8.0.26
+Java 8 / Spring Boot 2.5.6 / Maven / Mybatis 2.2.0  / MySQL 8.0.26 / AWS EC2 / AWS RDS
 - [프로젝트 상세 설명](https://github.com/KhaeMiin/Final_Team_Project) 참고
 
